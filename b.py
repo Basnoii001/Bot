@@ -26,11 +26,11 @@ from urllib.parse import urlencode
 #==============================================================================#
 botStart = time.time()
 #================EvVcY4Nk9hKiJZYdRMW3.TAVOkm2wqPizxdXz1JiGmW.4QUmFeBLiOjPKtdV7+ddmEw6IuVk/aIHke+OWKLmu/Q===============================================================#
-#line = LINE()
-line = LINE("baslovejoy2561@gmail.com","bas034287930")
-#line = LINE('')
-line.log("Auth Token : " + str(line.authToken))
-line.log("Timeline Token : " + str(line.tl.channelAccessToken))
+line = LINE ()
+
+#line = LINE ('')
+เส้น เข้าสู่ระบบ ( "Auth Token:"  +  STR ( บรรทัด . authToken ))
+เส้น log ( "Timeline Token:"  +  str ( บรรทัด . tl . channelAccessToken ))
 
 
 print ("─┅❈͜͡✯ʙᴀsʙᴏᴛʟɪɴᴇ✯͜͡❈┅─")
